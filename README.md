@@ -4,3 +4,5 @@ A github finder that fetches the github api to display information about searche
 
 
 Done with the help of Brad Traversy's Udemy course on Modern Javascript
+
+Check it out here: https://tiyasha99.github.io/Github-Finder/
